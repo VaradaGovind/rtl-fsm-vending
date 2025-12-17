@@ -75,3 +75,4 @@ The machine supports 4 distinct products selected via a 2-bit input code.
 .
 ├── src
 │   ├── Machine.v      # Entire Vending Machine Code
+│   └── Machine_tb.v   # Testbench simulation file
